@@ -27,3 +27,8 @@ public class ObjekDanClass {
         obj.tampilkanInfo();
     }   
 }
+/*
+Nama: Ummu Kultsum
+NIM: D1041241089
+Tanggal: 20/02/2026
+*/
