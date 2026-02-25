@@ -16,3 +16,8 @@ public class LatihanBilangan {
         System.out.println("Tipe: " + parity);
     }
 }
+/*
+Nama: Ummu Kultsum
+NIM: D1041214089
+Tanggal: 25/02/2026
+*/
