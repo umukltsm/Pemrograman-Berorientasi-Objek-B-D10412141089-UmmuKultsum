@@ -17,5 +17,5 @@ public class LatihanCariKelipatan {
 /*
 Nama: Ummu Kultsum
 NIM: D1041214089
-Tanggal: 25/02/2026
+Tanggal: 26/02/2026
 */
